@@ -1,4 +1,4 @@
-ifcopenshell-python
+ifcopenshell
 lark
 pandas
 Pillow
